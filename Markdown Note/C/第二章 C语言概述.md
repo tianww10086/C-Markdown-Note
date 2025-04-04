@@ -22,10 +22,36 @@ C程序一定从main()函数开始执行，main()函数是程序的入口，一�
 int age =18;
 声明了一个变量名为age的整型，变量名的命名规则：可以用小写字母，大写字母、数字和下划线来命名，其中名称的第一个字符必须是字母或下划线，不能是数字，且不能与关键字冲突。
 
+**常见关键字**
+
+| auto   | break  | case     | char   | const    | continue | defualt  | do     |
+| ------ | ------ | -------- | ------ | -------- | -------- | -------- | ------ |
+| double | else   | enum     | extern | float    | for      | goto     | if     |
+| int    | long   | register | return | short    | signed   | sizeof   | static |
+| struct | switch | typedef  | union  | unsigned | void     | volatile | while  |
 
 
 
+## 2.2 编程练习
 
-##### 2.1.5流程图
+1. 编写一个程序，打印你的姓名和地址
 
-![](D:\File\Markdown Note\image\Snipaste_2025-04-01_19-15-45.png)
+   ```c
+   
+   ```
+
+2. 编写一个程序，打印你的姓名和地址
+
+   ```
+   
+   ```
+
+3. 编写一个程序，把你的年龄转换成天数，并显示这两个值。不考虑闰年的问题
+
+   ```c
+   
+   ```
+
+4. 编写一个程序，创建一个整型变量toes，并将toes设置为10,程序中还要计算toes的两倍，toes的皮方。该程序应打印3个值，并分别描述以示区分
+
+   
