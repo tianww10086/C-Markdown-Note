@@ -30,7 +30,7 @@ int age =18;
 | int    | long   | register | return | short    | signed   | sizeof   | static |
 | struct | switch | typedef  | union  | unsigned | void     | volatile | while  |
 
-
+C一共有32个常见关键字
 
 ## 2.2 编程练习
 
